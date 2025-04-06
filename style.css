@@ -7,7 +7,27 @@ Body{
 }
 header{
     background-color: aqua;
-    color: #000;
+    color: #daa32d;
     padding: 1em;
     text-align: center;
+}
+main{   
+        padding: 1em;
+    
+}
+button{
+    padding: 0.5 1em;
+    background-color: crimson;
+    color: blanchedalmond;
+    border: none;
+    cursor: printer;
+
+}
+button{
+    background-color: cyan;
+    color: #2314a7;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    width: 100%;
 }
