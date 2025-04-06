@@ -1,0 +1,13 @@
+Body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 1;
+    padding: 1;
+    background-color: black;
+
+}
+header{
+    background-color: aqua;
+    color: #000;
+    padding: 1em;
+    text-align: center;
+}
