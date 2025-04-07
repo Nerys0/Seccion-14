@@ -5,8 +5,6 @@ button.addEventListener('click', function(){
 
     introSection.innerHTML='<p> El texto ha cambiado despues de hacer click en el button!!<p>';
     
-
-
 });
 
 });
